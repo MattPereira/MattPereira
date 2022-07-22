@@ -1,6 +1,6 @@
 ## Full-Stack Personal Projects
 ### [No Fun Leage](https://no-fun-league.herokuapp.com/)
-[<img src="static/no_fun_league.png" width="200" height="200"/>](https://no-fun-league.herokuapp.com/)
+[<img src="[static/no_fun_league.png](https://no-fun-league.herokuapp.com/static/no_fun_league.png)" width="200" height="200"/>](https://no-fun-league.herokuapp.com/)
 ### [Contra Costa Golf Club](https://ccgc.surge.sh/)
 [<img src="https://i.ibb.co/72nKCSf/ccgc-Logo11.png" width="200" height="200"/>](https://ccgc.surge.sh/greenies)
 
