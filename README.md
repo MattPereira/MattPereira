@@ -1,5 +1,6 @@
-## [No Fun Leage](https://no-fun-league.herokuapp.com/)
-## [Contra Costa Golf Club](https://ccgc.surge.sh/)
+## Full-Stack Personal Projects
+### [No Fun Leage](https://no-fun-league.herokuapp.com/)
+### [Contra Costa Golf Club](https://ccgc.surge.sh/)
 
 
 - 👀 I’m interested in building full-stack web applications.
@@ -19,4 +20,3 @@
   src="https://github-readme-stats.vercel.app/api/?username=mattpereira&theme=synthwave"
 />
 
-<br/><br/> 
