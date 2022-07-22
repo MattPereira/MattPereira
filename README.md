@@ -3,6 +3,9 @@
 
 [<img src="https://no-fun-league.herokuapp.com/static/no_fun_league.png" width="200" height="200"/>](https://no-fun-league.herokuapp.com/)
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
