@@ -1,4 +1,4 @@
-## Full-Stack Personal Projects
+## Personal Projects
 
 [Contra Costa Golf Club](https://ccgc.surge.sh/)     |  [No Fun League](https://no-fun-league.herokuapp.com/)
 :-------------------------:|:-------------------------:
