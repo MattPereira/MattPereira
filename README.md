@@ -2,7 +2,7 @@
 
 [Contra Costa Golf Club](https://ccgc.surge.sh/) | [No Fun League](https://no-fun-league.herokuapp.com/) | [Personal Portfolio](mattpereira.github.io/personal-portfolio/)
 :-------------------------:|:-------------------------:|:-----------------------------------------------------:|
-[<img src="https://i.ibb.co/72nKCSf/ccgc-Logo11.png" width="200" height="250"/>](https://ccgc.surge.sh/) | [<img src="https://no-fun-league.herokuapp.com/static/no_fun_league.png" width="200" height="200"/>](https://no-fun-league.herokuapp.com/) | [<img src="https://raw.githubusercontent.com/MattPereira/personal-portfolio/main/src/assets/logos/MP_logo_dark.svg" width="200" height="200"/>](mattpereira.github.io/personal-portfolio/)
+[<img src="https://i.ibb.co/72nKCSf/ccgc-Logo11.png" width="200" height="250"/>](https://ccgc.surge.sh/) | [<img src="https://no-fun-league.herokuapp.com/static/no_fun_league.png" width="200" height="200"/>](https://no-fun-league.herokuapp.com/) | [<img src="https://raw.githubusercontent.com/MattPereira/personal-portfolio/main/src/assets/svg/logos/MP_logo_dark.svg" width="200" height="200"/>](mattpereira.github.io/personal-portfolio/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
