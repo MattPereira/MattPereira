@@ -6,7 +6,7 @@
 :-------------------------:|:-------------------------:|:-----------------------------------------------------:|:---------------:|
 [<img src="https://raw.githubusercontent.com/MattPereira/ccgc-frontend/main/src/assets/ccgc_logo.png" width="100" height="100"/>](https://ccgc.surge.sh/) | [<img src="https://raw.githubusercontent.com/MattPereira/tabernacle-school/main/public/TS_LOGO_CIRCLE.png" width="100" height="100"/>](https://tabernacle.school) |[<img src="https://raw.githubusercontent.com/MattPereira/no_fun_league/main/static/no_fun_league.png" width="100" height="100"/>](https://no-fun-league.up.railway.app/) | [<img src="https://raw.githubusercontent.com/MattPereira/personal-portfolio/main/src/assets/svg/logos/MP_logo_dark.svg" width="100" height="100"/>](https://matt-pereira.surge.sh/)
 
-## 🔧 Technologies & Tools
+<!-- ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-
+ -->
 
 - 👀 I’m interested in building full-stack web applications.
 - 🌱 I’m recently completed a full stack Software Engineering bootcamp with Springboard. 
