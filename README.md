@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattpereira)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Personal Projects
 
 [CCGC](https://ccgc.surge.sh/) | [Tabernacle School](https://tabernacle.school)| [No Fun League](https://no-fun-league.up.railway.app/) | [Portfolio](https://matt-pereira.surge.sh/)
