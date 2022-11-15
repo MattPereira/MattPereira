@@ -22,6 +22,5 @@
 
 
 - 👀 I’m interested in building full-stack web applications.
-- 🌱 I’m currently enrolled in a Software Engineering bootcamp with Springboard. 
-- 💞️ I’m looking to collaborate on project websites to sharpen my full stack web development skills. 
+- 🌱 I’m recently completed a full stack Software Engineering bootcamp with Springboard. 
 - 📫 matthewdavidpereira@gmail.com
