@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattpereira&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Personal Projects
 
@@ -20,6 +20,8 @@
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  -->
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattpereira&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💻 I’m interested in building full-stack web applications.
 - 🌱 I recently completed a Full Stack Software Engineering bootcamp with Springboard. 
