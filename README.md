@@ -23,4 +23,4 @@
 
 - 👀 I’m interested in building full-stack web applications.
 - 🌱 I recently completed a Full Stack Software Engineering bootcamp with Springboard. 
-- 🧘 Namaste
+- 💘 I love all things open source (especially linux 🐧)
