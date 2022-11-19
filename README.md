@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  -->
  
-<img src="https://github-readme-stats.vercel.app/api?username=mattpereira&show_icons=true"/>
+<img style="pointer-events: none;" src="https://github-readme-stats.vercel.app/api?username=mattpereira&show_icons=true"/>
 
 - 💻 I’m interested in building full-stack web applications.
 - 🌱 I recently completed a Full Stack Software Engineering bootcamp with Springboard. 
