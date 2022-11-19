@@ -21,6 +21,6 @@
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  -->
 
-- 👀 I’m interested in building full-stack web applications.
+- 💻 I’m interested in building full-stack web applications.
 - 🌱 I recently completed a Full Stack Software Engineering bootcamp with Springboard. 
 - 💘 I love all things open source (especially linux 🐧)
