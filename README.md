@@ -22,5 +22,5 @@
  -->
 
 - 👀 I’m interested in building full-stack web applications.
-- 🌱 I recently completed a full stack Software Engineering bootcamp with Springboard. 
-- 📫 matthewdavidpereira@gmail.com
+- 🌱 I recently completed a Full Stack Software Engineering bootcamp with Springboard. 
+- 🧘 Namaste
