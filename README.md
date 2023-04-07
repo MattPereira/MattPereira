@@ -1,4 +1,9 @@
-<img style="pointer-events: none;" src="https://github-readme-stats.vercel.app/api?username=mattpereira&show_icons=true"/>
+## About Me
+- I’m interested in building full-stack web applications 💻 
+- I completed a Full Stack Software Engineering bootcamp with Springboard 🌱 
+- I volunteer at [Hack For LA](https://www.hackforla.org/) ❤️ 
+- I love all things open source, especially linux 🐧
+
 
 ## Projects
 ### Contra Costa Golf Club - https://ccgc.app/
@@ -16,8 +21,7 @@ A full stack web application for my personal fantasy football league. All of the
 
 Stack: Python | Flask | Jinja | PostgreSQL | SQLAlchemy | Bootstrap
 
-### Personal Portfolio Page - https://matt-pereira.vercel.app/
-
+<img style="pointer-events: none;" src="https://github-readme-stats.vercel.app/api?username=mattpereira&show_icons=true"/>
 
  ## Technologies
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +38,4 @@ Stack: Python | Flask | Jinja | PostgreSQL | SQLAlchemy | Bootstrap
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
  
-## About Me
-- 💻 I’m interested in building full-stack web applications.
-- 🌱 I recently completed a Full Stack Software Engineering bootcamp with Springboard. 
-- 💘 I love all things open source (especially linux 🐧)
+
