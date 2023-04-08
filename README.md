@@ -1,10 +1,3 @@
-## About Me
-- I’m interested in building full-stack web applications 💻 
-- I completed a Full Stack Software Engineering bootcamp with Springboard 🌱 
-- I volunteer at [Hack For LA](https://www.hackforla.org/) ❤️ 
-- I love all things open source, especially linux 🐧
-
-
 ## Projects
 ### Contra Costa Golf Club - https://ccgc.app/
 A full stack, single page web application for a local golf club. The site displays all of the tournaments, greenies, members, courses, and standings data. All users are able to input their strokes, putts, and greenies for each round. Upon submission of any new, edited, or deleted data, tour points are automatically recalculated. Features include a custom built internal API, full CRUD, user authentication, multi-tiered authorization levels, and a tour points system that incorporates handicaps to determine an overall champion based on all rounds inputted for the year. 
@@ -23,19 +16,40 @@ Stack: Python | Flask | Jinja | PostgreSQL | SQLAlchemy | Bootstrap
 
 <img style="pointer-events: none;" src="https://github-readme-stats.vercel.app/api?username=mattpereira&show_icons=true"/>
 
- ## Technologies
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<br>
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-<br>
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+ ## Skills
 
+<div>
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
  
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"/>
+ 
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"/>
 
+
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
+ 
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"/>
+ 
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>
+ 
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
+ 
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+ 
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
+ 
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/>
+ 
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"/>
+ 
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/>
+ 
+<img style="height:50px;width:50px;" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/>
+ 
+</div>
+
+
+
+	
+ 
+ 
