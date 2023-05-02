@@ -26,14 +26,6 @@ A full stack web application for my personal fantasy football league. All of the
 
 Stack: Python | Flask | Jinja | PostgreSQL | SQLAlchemy | Bootstrap
 
-## Volunteer Projects 
-<a href="https://github.com/hackforla/VRMS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpereira&repo=VRMS&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/hackforla/CivicTechJobs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpereira&repo=CivicTechJobs&theme=dark" />
-</a>
-
 ## Skills
 
 <div>
