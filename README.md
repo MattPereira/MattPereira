@@ -14,7 +14,7 @@
 ### [No Fun League](https://github.com/MattPereira/no-fun-league)
 - Full stack web application for my personal fantasy football league
 - All of the roster, draft, and player data is sourced from the Sleeper API.
-- League members can edit their manager profile information, create blog posts, propose rule changes, and vote on those proposed rule changes. 
+- League members can edit their profile page, create blog posts, propose and vote on rule changes. 
 
 
 ## Skills
