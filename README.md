@@ -1,18 +1,21 @@
 ## Projects
 ### [Contra Costa Golf Club](https://github.com/MattPereira/contra-costa-golf-club)
-A full stack, single page web application for a local golf club. The site displays all of the tournaments, greenies, members, courses, and standings data. All users are able to input their strokes, putts, and greenies for each round. Upon submission of any new, edited, or deleted data, tour points are automatically recalculated. Features include a custom built internal API, full CRUD, user authentication, multi-tiered authorization levels, and a tour points system that incorporates handicaps to determine an overall champion based on all rounds inputted for the year. 
-
-Stack: Javascript | React | React Router | Material UI | Express | PostgreSQL
+- Full stack, single page web application for a local golf organization that manages club data
+- Users are able to input their strokes, putts, and greenies as they play each golf round
+- Custom built internal API that handles create, read, update, and delete operations 
+- Calculates handicaps and points for determining individual tournament and season long champions
 
 ### [Tabernacle School](https://github.com/MattPereira/tabernacle-school)
-A single page web application for Tabernacle School that advertises to prospective families and provides current families with requisite documents, calendars, and instructions. Features include forms that allow users to send emails to the school, a FullCalender that fetches data from the school’s google calendar, and a headless CMS for updating some of the data and photos displayed on the website. 
+- Single page website for elementary-middle school for advertising and distribution of documents and information.
+- Implemented forms that allow users to send the school messages via email using EmailJS
+- Utilizes Strapi, a headless CMS, to update data and images displayed on website
 
-Stack: Javascript | React | React Router | Material UI | Strapi
 
 ### [No Fun League](https://github.com/MattPereira/no-fun-league)
-A full stack web application for my personal fantasy football league. All of the roster, draft, and player data is sourced from the Sleeper API. The site serves the members of the league by providing them with updated information about their rosters and past league drafts. Additionally, the site allows league members to edit their manager profile information, create blog posts, propose rule changes, and vote on those proposed rule changes. 
+- Full stack web application for my personal fantasy football league
+- All of the roster, draft, and player data is sourced from the Sleeper API.
+- League members can edit their manager profile information, create blog posts, propose rule changes, and vote on those proposed rule changes. 
 
-Stack: Python | Flask | Jinja | PostgreSQL | SQLAlchemy | Bootstrap
 
 ## Skills
 
