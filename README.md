@@ -11,7 +11,7 @@
 - Utilizes Strapi, a headless CMS, to update data and images displayed on website
 
 ### [Etherspect](https://etherspect.vercel.app/)
-- Ethereum block explorer displaying up to date information about blocks, transactions, and prices
+- Ethereum block explorer displaying up to date information about blocks, transactions, accounts, and prices
 - Search for any address, ENS name, transaction hash, or block number on the Ethereum mainnet
 - Integrates serverless functions, alchemy sdk, and etherscan api
 
