@@ -28,6 +28,6 @@ Stack: Python | Flask | Jinja | PostgreSQL | SQLAlchemy | Bootstrap
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,solidity,tailwind,nextjs,nodejs,express,postgres,django,vercel,linux,materialui,bash,git,docker,discord,aws,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,solidity,nextjs,nodejs,express,postgres,django,vercel,linux,bash,git,docker,discord,aws,md,mongodb,html,css,tailwind,materialui)](https://skillicons.dev)
  
 
