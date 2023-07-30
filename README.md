@@ -10,6 +10,10 @@
 - Implemented forms that allow users to send the school messages via email using EmailJS
 - Utilizes Strapi, a headless CMS, to update data and images displayed on website
 
+### [Ethereum Block Explorer](https://etherspect.vercel.app/)
+- Search for any address, ENS name, transaction hash, or block number on the Ethereum mainnet
+- Integrates serverless functions, alchemy sdk, and etherscan api
+- Provides information about recently minded blocks, transactions, and gas prices
 
 ### [No Fun League](https://no-fun-league.up.railway.app/)
 - Full stack web application for my personal fantasy football league
