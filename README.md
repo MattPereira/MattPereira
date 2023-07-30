@@ -6,15 +6,14 @@
 - Calculates handicaps and points for determining individual tournament and season long champions
 
 ### [Tabernacle School](https://www.tabernacle.school)
-- Single page website for elementary-middle school for advertising and distribution of documents and information.
-- Implemented forms that allow users to send the school messages via email using EmailJS
-- Utilizes Strapi, a headless CMS, to update data and images displayed on website
+- Elementary school website promoting services and providing up to date information for parents
+- Offers forms that enable users to send the school messages via emails that are DKIM verified with Postmark
+- Uses a headless content management system to update data and images displayed on the site
 
 ### [Etherspect](https://etherspect.vercel.app/)
-- Ethereum block explorer displaying up to date information about blocks, transactions, accounts, and prices
+- Ethereum block explorer that displays latest data about blocks, transactions, accounts, and prices-
 - Search for any address, ENS name, transaction hash, or block number on the Ethereum mainnet
-- Integrates Nextjs, tailwind, serverless functions, alchemy sdk, and etherscan api
-
+- Leverages serverless functions, alchemy sdk, and etherscan api
 
 ### [No Fun League](https://no-fun-league.up.railway.app/)
 - Full stack web application for my personal fantasy football league
