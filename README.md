@@ -20,6 +20,9 @@
 - All of the roster, draft, and player data is sourced from the Sleeper API
 - League members can edit their profile page, create blog posts, propose and vote on rule changes
 
+## Web3
+- [My NFT Challenge Collection](https://opensea.io/__MattPereira__)
+- [matthu.eth](https://app.ens.domains/matthu.eth)
 
 ## Skills
 
