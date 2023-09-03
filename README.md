@@ -22,7 +22,7 @@
 
 ## Web3
 ### [NFT Challenge Showcase](https://opensea.io/__MattPereira__)
-- View web3 challenge NFTs I have earned on OpenSea and verify my identity via github account records at [matthu.eth](https://app.ens.domains/matthu.eth)
+- Check out my challenge NFTs collection on OpenSea and verify my identity via github account records at [matthu.eth](https://app.ens.domains/matthu.eth)
 
 ## Skills
 
