@@ -24,6 +24,9 @@
 ### [NFT Challenge Showcase](https://opensea.io/__MattPereira__)
 - Check out my challenge NFTs collection on OpenSea and verify my identity via github account records at [matthu.eth](https://app.ens.domains/matthu.eth)
 
+### [Speedrun Etheruem Portfolio](https://speedrunethereum.com/builders/0x41f727fA294E50400aC27317832A9F78659476B9)
+- Check out my progress as I complete [Speedrun Ethereum](https://speedrunethereum.com/) challenges and ship new dapps!
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,solidity,react,nextjs,vercel,nodejs,express,postgres,django,linux,bash,git,github,docker,md,mongodb,aws,html,css,sass,tailwind,materialui,bootstrap)](https://skillicons.dev)
