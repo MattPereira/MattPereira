@@ -28,7 +28,8 @@
 - Check out my progress as I complete [Speedrun Ethereum](https://speedrunethereum.com/) challenges and ship new dapps!
 
 ## Skills
+### Primary
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,solidity,react,nextjs,tailwind,materialui,nodejs,express,postgres,linux,bash,git,github)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,solidity,react,nextjs,vercel,nodejs,express,postgres,django,linux,bash,git,github,docker,md,mongodb,aws,html,css,sass,tailwind,materialui,bootstrap)](https://skillicons.dev)
- 
-
+ ### Secondary
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,vite,docker,django,mongodb,vercel,aws,html,css,sass,bootstrap)](https://skillicons.dev)
