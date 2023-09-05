@@ -29,7 +29,7 @@
 
 ## Skills
 ### Primary
-[![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,react,nextjs,tailwind,materialui,nodejs,express,postgres,linux,bash,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,react,nextjs,tailwind,materialui,nodejs,express,postgres,git,github)](https://skillicons.dev)
 
  ### Secondary
 [![My Skills](https://skillicons.dev/icons?i=py,linux,bash,vite,docker,django,mongodb,vercel,aws,html,css,sass,bootstrap)](https://skillicons.dev)
