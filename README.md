@@ -1,4 +1,4 @@
-## Projects
+## Web2 Projects
 ### [Contra Costa Golf Club](https://ccgc.vercel.app)
 - Full stack, single page web app managing all data for a local golf organization
 - Users are able to input their strokes, putts, and greenies as they play each golf round
@@ -10,17 +10,17 @@
 - Offers forms that enable users to send the school messages via emails that are DKIM verified with Postmark
 - Uses a headless content management system to update data and images displayed on the site
 
-### [Etherspect](https://etherspect.vercel.app/)
-- Ethereum block explorer that displays latest data about blocks, transactions, accounts, and prices
-- Search for any address, ENS name, transaction hash, or block number on the Ethereum mainnet
-- Leverages serverless functions, alchemy sdk, and etherscan api
-
 ### [No Fun League](https://no-fun-league.up.railway.app/)
 - Full stack web application for my personal fantasy football league
 - All of the roster, draft, and player data is sourced from the Sleeper API
 - League members can edit their profile page, create blog posts, propose and vote on rule changes
 
-## Web3
+## Web3 Projects
+### [Etherspect](https://etherspect.vercel.app/)
+- Ethereum block explorer that displays latest data about blocks, transactions, accounts, and prices
+- Search for any address, ENS name, transaction hash, or block number on the Ethereum mainnet
+- Leverages serverless functions, alchemy sdk, and etherscan api
+
 ### [NFT Challenge Showcase](https://opensea.io/__MattPereira__)
 - Check out my challenge NFTs collection on OpenSea and verify my identity via github account records at [matthu.eth](https://app.ens.domains/matthu.eth)
 
