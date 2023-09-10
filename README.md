@@ -1,14 +1,4 @@
-## Web3
-### [Etherspect](https://etherspect.vercel.app/)
-- Ethereum block explorer that displays latest data about blocks, transactions, accounts, and prices
-- Search for any address, ENS name, transaction hash, or block number on the Ethereum mainnet
-- Leverages serverless functions, alchemy sdk, and etherscan api
 
-### [NFT Challenge Showcase](https://opensea.io/__MattPereira__)
-- Check out my challenge NFTs collection on OpenSea and verify my identity via github account records at [matthu.eth](https://app.ens.domains/matthu.eth)
-
-### [Speedrun Etheruem Portfolio](https://speedrunethereum.com/builders/0x41f727fA294E50400aC27317832A9F78659476B9)
-- Check out my progress as I complete [Speedrun Ethereum](https://speedrunethereum.com/) challenges and ship new dapps!
 
 ## Web2
 ### [Contra Costa Golf Club](https://ccgc.vercel.app)
@@ -26,6 +16,18 @@
 - Full stack web application for my personal fantasy football league
 - All of the roster, draft, and player data is sourced from the Sleeper API
 - League members can edit their profile page, create blog posts, propose and vote on rule changes
+
+## Web3
+### [Etherspect](https://etherspect.vercel.app/)
+- Ethereum block explorer that displays latest data about blocks, transactions, accounts, and prices
+- Search for any address, ENS name, transaction hash, or block number on the Ethereum mainnet
+- Leverages serverless functions, alchemy sdk, and etherscan api
+
+### [NFT Challenge Showcase](https://opensea.io/__MattPereira__)
+- Check out my challenge NFTs collection on OpenSea and verify my identity via github account records at [matthu.eth](https://app.ens.domains/matthu.eth)
+
+### [Speedrun Etheruem Portfolio](https://speedrunethereum.com/builders/0x41f727fA294E50400aC27317832A9F78659476B9)
+- Check out my progress as I complete [Speedrun Ethereum](https://speedrunethereum.com/) challenges and ship new dapps!
 
 ## Skills
 ### Primary
