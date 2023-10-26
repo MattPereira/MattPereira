@@ -1,3 +1,19 @@
+## Web3
+### [Speedrun Chainlink](https://speedrun-chainlink.vercel.app/)
+- Learn how to integrate price feeds in your smart contracts using AggregatorV3Interface
+- Spin the wheel of fruit to request a verifiably random number from the VRF Coordinator
+- Play with the simple counter contract to understand how chainlink keeper nodes perform automated tasks on chain
+
+### [Etherspect](https://etherspect.vercel.app/)
+- Ethereum block explorer that displays latest data about blocks, transactions, accounts, and prices
+- Search for any address, ENS name, transaction hash, or block number on the Ethereum mainnet
+- Leverages serverless functions, alchemy sdk, and etherscan api
+
+### [Buidl Guidl Portfolio](https://speedrunethereum.com/builders/0x41f727fA294E50400aC27317832A9F78659476B9)
+- See all my full stack dapps built with scaffold eth 2
+
+### [NFT Challenge Showcase](https://opensea.io/__MattPereira__)
+- Check out my challenge NFTs collection on OpenSea and verify my identity via github account records at [matthu.eth](https://app.ens.domains/matthu.eth)
 
 
 ## Web2
@@ -16,18 +32,6 @@
 - Full stack web application for my personal fantasy football league
 - All of the roster, draft, and player data is sourced from the Sleeper API
 - League members can edit their profile page, create blog posts, propose and vote on rule changes
-
-## Web3
-### [Etherspect](https://etherspect.vercel.app/)
-- Ethereum block explorer that displays latest data about blocks, transactions, accounts, and prices
-- Search for any address, ENS name, transaction hash, or block number on the Ethereum mainnet
-- Leverages serverless functions, alchemy sdk, and etherscan api
-
-### [NFT Challenge Showcase](https://opensea.io/__MattPereira__)
-- Check out my challenge NFTs collection on OpenSea and verify my identity via github account records at [matthu.eth](https://app.ens.domains/matthu.eth)
-
-### [Speedrun Etheruem Portfolio](https://speedrunethereum.com/builders/0x41f727fA294E50400aC27317832A9F78659476B9)
-- Check out my progress as I complete [Speedrun Ethereum](https://speedrunethereum.com/) challenges and ship new dapps!
 
 ## Skills
 ### Primary
