@@ -1,4 +1,9 @@
 ## Web3
+### [Vaults of Fortune](https://vaults-of-fortune.vercel.app/)
+- A contest where players are airdropped ERC-20 tokens to deposit into ERC-4626 vaults
+- At the end of each round, Chainlink VRF determines return on investment for each of the three vaults
+- Leaderboard and round state are tracked using events emitted on chain
+
 ### [Speedrun Chainlink](https://speedrun-chainlink.vercel.app/)
 - Learn how to integrate price feeds in your smart contracts using AggregatorV3Interface
 - Spin the wheel of fruit to request a verifiably random number from the VRF Coordinator
