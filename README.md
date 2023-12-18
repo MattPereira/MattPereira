@@ -18,7 +18,7 @@
 - See all my full stack dapps built with scaffold eth 2
 
 ### [NFT Challenge Showcase](https://opensea.io/__MattPereira__)
-- Check out my [collection of challenge NFTs](https://opensea.io/__MattPereira__) on OpenSea and verify my identity via github account records at [matthu.eth](https://app.ens.domains/matthu.eth)
+- Check out my [collection of challenge NFTs](https://opensea.io/__MattPereira__) on OpenSea and verify my identity via github account records on the Etherum Name Service at [matthu.eth](https://app.ens.domains/matthu.eth)
 
 
 ## Web2
