@@ -9,10 +9,10 @@
 - Spin the wheel of fruit to request a verifiably random number from the VRF Coordinator
 - Play with the simple counter contract to understand how chainlink keeper nodes perform automated tasks on chain
 
-### [Etherspect](https://etherspect.vercel.app/)
-- Ethereum block explorer that displays latest data about blocks, transactions, accounts, and prices
-- Search for any address, ENS name, transaction hash, or block number on the Ethereum mainnet
-- Leverages serverless functions, alchemy sdk, and etherscan api
+### [Etherscript](https://github.com/MattPereira/etherscript)
+- Swap tokens using uniswap's smart order router that computes the optimal route before executing the swap
+- Gets the price for a base asset in terms of a quote asset using chainlink price feeds
+- Fetches abi from etherscan API and output the result to a .json file inside the ./abis directory
 
 ### [Buidl Guidl Portfolio](https://speedrunethereum.com/builders/0x41f727fA294E50400aC27317832A9F78659476B9)
 - See all my full stack decentralized applications built with scaffold eth 2
