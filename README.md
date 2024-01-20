@@ -1,4 +1,10 @@
 ## Web3
+
+###[Only Buidlors](https://only-buidlors.vercel.app/)
+- A dynamic SVG NFT project for the BuidlGuidl
+- Uses chainlink functions to verify membership by making request from smart contract to off chain API
+- Dynamically displays NFT's background color, build count, and ens name 
+
 ### [Vaults of Fortune](https://vaults-of-fortune.vercel.app/)
 - A contest where players are airdropped ERC-20 tokens to deposit into ERC-4626 vaults
 - Uses Chainlink VRF to randomly determine return on investment for each of the three vaults
