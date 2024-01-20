@@ -20,12 +20,6 @@
 - Gets the price for a base asset in terms of a quote asset using chainlink price feeds
 - Fetches abi from etherscan API and output the result to a .json file inside the ./abis directory
 
-### [Buidl Guidl Portfolio](https://speedrunethereum.com/builders/0x41f727fA294E50400aC27317832A9F78659476B9)
-- See all my full stack decentralized applications built with scaffold eth 2
-
-### [NFT Challenge Showcase](https://opensea.io/__MattPereira__)
-- Check out my [collection of challenge NFTs](https://opensea.io/__MattPereira__) on OpenSea and verify my identity via github account records on the Etherum Name Service at [matthu.eth](https://app.ens.domains/matthu.eth)
-
 
 ## Web2
 ### [Contra Costa Golf Club](https://ccgc.vercel.app)
