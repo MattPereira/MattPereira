@@ -1,6 +1,6 @@
 ## Web3
 
-###[Only Buidlors](https://only-buidlors.vercel.app/)
+### [Only Buidlors](https://only-buidlors.vercel.app/)
 - A dynamic SVG NFT project for the BuidlGuidl
 - Uses chainlink functions to verify membership by making request from smart contract to off chain API
 - Dynamically displays NFT's background color, build count, and ens name 
