@@ -38,5 +38,3 @@
 - All of the roster, draft, and player data is sourced from the Sleeper API
 - League members can edit their profile page, create blog posts, propose and vote on rule changes
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,react,nextjs,tailwind,materialui,nodejs,express,postgres,git,github,py,linux,bash,vite,docker,django,mongodb,vercel,aws,html,css,sass,bootstrap)](https://skillicons.dev)
