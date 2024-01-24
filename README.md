@@ -1,4 +1,4 @@
-## Web3
+## Decentralized Buidls
 
 ### [Only Buidlors](https://only-buidlors.vercel.app/)
 - A dynamic SVG NFT project for the BuidlGuidl
@@ -21,7 +21,7 @@
 - Fetches abi from etherscan API and output the result to a .json file inside the ./abis directory
 
 
-## Web2
+## Centralized Builds
 ### [Contra Costa Golf Club](https://ccgc.vercel.app)
 - Full stack, single page web app managing all data for a local golf organization
 - Users are able to input their strokes, putts, and greenies as they play each golf round
@@ -33,8 +33,4 @@
 - Offers forms that enable users to send the school messages via emails that are DKIM verified with Postmark
 - Uses a headless content management system to update data and images displayed on the site
 
-### [No Fun League](https://no-fun-league.up.railway.app/)
-- Full stack web application for my personal fantasy football league
-- All of the roster, draft, and player data is sourced from the Sleeper API
-- League members can edit their profile page, create blog posts, propose and vote on rule changes
 
