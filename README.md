@@ -1,4 +1,4 @@
-## Onchain Buidls
+## ⛓️ On Chain Buidls
 
 ### [Only Buidlors](https://only-buidlors.vercel.app/)
 - A dynamic SVG NFT project for the BuidlGuidl
@@ -21,7 +21,7 @@
 - Fetches abi from etherscan API and output the result to a .json file inside the ./abis directory
 
 
-## Offchain Builds
+## 🕸️ Web2 Builds
 ### [Contra Costa Golf Club](https://ccgc.vercel.app)
 - Full stack, single page web app managing all data for a local golf organization
 - Users are able to input their strokes, putts, and greenies as they play each golf round
