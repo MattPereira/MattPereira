@@ -1,5 +1,3 @@
-## ⛓️ On Chain Buidls
-
 ### 🏗️ [Only Buidlors](https://only-buidlors.vercel.app/)
 - A dynamic SVG NFT project for the BuidlGuidl
 - Uses chainlink functions to verify membership by making request from smart contract to off chain API
@@ -19,18 +17,3 @@
 - Swap tokens using uniswap's smart order router that computes the optimal route before executing the swap
 - Gets the price for a base asset in terms of a quote asset using chainlink price feeds
 - Fetches abi from etherscan API and output the result to a .json file inside the ./abis directory
-
-
-## 🕸️ Web2 Builds
-### ⛳ [Contra Costa Golf Club](https://ccgc.vercel.app)
-- Full stack, single page web app managing all data for a local golf organization
-- Users are able to input their strokes, putts, and greenies as they play each golf round
-- Custom built internal API that handles create, read, update, and delete operations 
-- Calculates handicaps and points for determining individual tournament and season long champions
-
-### 🏫 [Tabernacle School](https://www.tabernacle.school)
-- Elementary school website promoting services and providing up to date information for parents
-- Offers forms that enable users to send the school messages via emails that are DKIM verified with Postmark
-- Uses a headless content management system to update data and images displayed on the site
-
-
