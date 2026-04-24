@@ -6,12 +6,12 @@
 
 ### 🏗️ Projects
 
-- [Scaffold Balancer](https://github.com/balancer/scaffold-balancer-v3) – Prototyping tool for building on top of Balancer v3. Accelerate the process of designing and deploying custom liquidity pools and hooks contracts
-- [StreamoGator](https://github.com/MattPereira/streamogator) – Data indexing for Buidl Guidl stream cohort contracts using Ponder, GraphQL and PSQL with a nextjs frontend
-- [Only Buidlors](https://github.com/MattPereira/only-buidlors) – Dynamic SVG NFT project uses Chainlink functions to verify membership by making request from smart contract to off chain API
+- [Scaffold Balancer](https://github.com/balancer/scaffold-balancer-v3) – Prototyping tool for building custom liquidity pools and hooks contracts
+- [StreamoGator](https://github.com/MattPereira/streamogator) – Data indexing for Buidl Guidl stream cohort contracts using Ponder, GraphQL, and Next.js
+- [Only Buidlors](https://github.com/MattPereira/only-buidlors) – Dynamic SVG NFT project uses Chainlink functions to verify BuidlGuidl membership
 - [Vaults of Fortune](https://github.com/MattPereira/vaults-of-fortune) – Contest where players are airdropped ERC-20 tokens to deposit into ERC-4626 vaults. Uses Chainlink VRF to determine return on investment
-- [Speedrun Chainlink](https://github.com/MattPereira/speedrun-chainlink) – Learn how to integrate price feeds, verifiably random numbers, and on-chain automations in your smart contracts
-- [Contra Costa Golf Club](https://github.com/MattPereira/contra-costa-golf-club) – Manages players’ strokes, putts, and greenies for each round. Calculates handicaps, skins, and points to determine champions
+- [Speedrun Chainlink](https://github.com/MattPereira/speedrun-chainlink) – Learn to integrate price feeds, verifiably random numbers, and automations in smart contracts
+- [Contra Costa Golf Club](https://github.com/MattPereira/contra-costa-golf-club) – Manages players’ strokes for each round with calculations for handicaps, skins, and points
 
 ### 🏆 Hackathons
 
