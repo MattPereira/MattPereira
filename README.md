@@ -11,7 +11,7 @@
 - [Only Buidlors](https://github.com/MattPereira/only-buidlors) – Dynamic SVG NFT project uses Chainlink functions to verify BuidlGuidl membership
 - [Vaults of Fortune](https://github.com/MattPereira/vaults-of-fortune) – Contest where players deposit into ERC-4626 vaults with Chainlink VRF to randomize returns
 - [Speedrun Chainlink](https://github.com/MattPereira/speedrun-chainlink) – Learn to integrate price feeds, verifiably random numbers, and automations in smart contracts
-- [Contra Costa Golf Club](https://github.com/MattPereira/contra-costa-golf-club) – Manages players’ strokes for each round with calculations for handicaps, skins, and points
+- [Contra Costa Golf Club](https://github.com/MattPereira/contra-costa-golf-club) – Manages golfers' scores for each round with calculations for handicaps, skins, and points
 
 ### 🏆 Hackathons
 
