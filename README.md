@@ -8,7 +8,7 @@
 
 - [Open Caddie](https://github.com/MattPereira/open-caddie) – A modern golf score keeper for match play and tournament coordination
 - [Scaffold Balancer](https://github.com/balancer/scaffold-balancer-v3) – Prototyping tool for building custom liquidity pools and hooks contracts
-- [Streamogator](https://github.com/MattPereira/streamogator) – Data indexing for Buidl Guidl stream cohort contracts using Ponder, GraphQL, and Next.js
+- [Streamogator](https://github.com/MattPereira/streamogator) – Data indexing for Buidl Guidl stream contracts using Ponder, GraphQL, and Next.js
 - [Only Buidlors](https://github.com/MattPereira/only-buidlors) – Dynamic SVG NFT project uses Chainlink functions to verify BuidlGuidl membership
 - [Speedrun Chainlink](https://github.com/MattPereira/speedrun-chainlink) – Learn to integrate price feeds, random numbers, and automations in smart contracts
 
