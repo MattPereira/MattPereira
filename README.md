@@ -8,7 +8,7 @@
 
 - [Open Caddie](https://github.com/MattPereira/open-caddie) – A modern golf score keeper for match play and tournament coordination
 - [Scaffold Balancer](https://github.com/balancer/scaffold-balancer-v3) – Prototyping tool for building custom liquidity pools and hooks contracts
-- [HoldSight](https://github.com/MattPereira/holdsight) – Track portfolio allocations, document theses, and journal trade decisions
+- [HoldSight](https://github.com/MattPereira/holdsight) – Track diverse portfolio allocations and plan investment strategies
 
 ### 🏆 Hackathons
 
