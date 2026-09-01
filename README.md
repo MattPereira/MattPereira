@@ -10,6 +10,12 @@
 - [Scaffold Balancer](https://github.com/balancer/scaffold-balancer-v3) – Prototyping tool for building custom liquidity pools and hooks contracts
 - [HoldSight](https://github.com/MattPereira/holdsight) – Track diverse portfolio allocations and plan investment strategies
 
+### 🎥 Videos
+
+[<img src="https://img.youtube.com/vi/m6q5M34ZdXw/maxresdefault.jpg" width="400" alt="Build On Balancer playlist">](https://www.youtube.com/playlist?list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw)
+
+[Build On Balancer](https://www.youtube.com/playlist?list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) – Workshop series on building custom pools and hooks with Balancer v3
+
 ### 🏆 Hackathons
 
 - ETH Denver Bounty Winner | [Github](https://github.com/MattPereira/FundGuys) | [NFT](https://opensea.io/item/arbitrum/0x93fd88df3e2a377c0f23bf22c1cfd87047818d20/126) | [Devfolio](https://devfolio.co/projects/fundguys-9ed9) | Feb 2024
