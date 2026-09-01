@@ -12,9 +12,11 @@
 
 ### 🎥 Videos
 
-[<img src="https://img.youtube.com/vi/m6q5M34ZdXw/maxresdefault.jpg" width="400" alt="Build On Balancer playlist">](https://www.youtube.com/playlist?list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw)
-
 [Build On Balancer](https://www.youtube.com/playlist?list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) – Workshop series on building custom pools and hooks with Balancer v3
+
+| <a href="https://www.youtube.com/watch?v=m6q5M34ZdXw&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw"><img src="https://img.youtube.com/vi/m6q5M34ZdXw/maxresdefault.jpg" width="260" alt="Introduction to Scaffold Balancer V3"></a> | <a href="https://www.youtube.com/watch?v=kaz6duliRPA&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw"><img src="https://img.youtube.com/vi/kaz6duliRPA/maxresdefault.jpg" width="260" alt="Create a Hook on Balancer V3"></a> | <a href="https://www.youtube.com/watch?v=oJAXQCMVdfA&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw"><img src="https://img.youtube.com/vi/oJAXQCMVdfA/maxresdefault.jpg" width="260" alt="Create Custom AMMs on Balancer v3"></a> |
+| :---: | :---: | :---: |
+| [Introduction to Scaffold Balancer V3](https://www.youtube.com/watch?v=m6q5M34ZdXw&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) | [Create a Hook on Balancer V3](https://www.youtube.com/watch?v=kaz6duliRPA&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) | [Create Custom AMMs on Balancer v3](https://www.youtube.com/watch?v=oJAXQCMVdfA&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) |
 
 ### 🏆 Hackathons
 
