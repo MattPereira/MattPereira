@@ -12,9 +12,10 @@
 
 ### 🎥 Videos
 
-| <a href="https://www.youtube.com/watch?v=m6q5M34ZdXw&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw"><img src="https://img.youtube.com/vi/m6q5M34ZdXw/maxresdefault.jpg" width="260" alt="Introduction to Scaffold Balancer V3"></a> | <a href="https://www.youtube.com/watch?v=kaz6duliRPA&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw"><img src="https://img.youtube.com/vi/kaz6duliRPA/maxresdefault.jpg" width="260" alt="Create a Hook on Balancer V3"></a> | <a href="https://www.youtube.com/watch?v=oJAXQCMVdfA&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw"><img src="https://img.youtube.com/vi/oJAXQCMVdfA/maxresdefault.jpg" width="260" alt="Create Custom AMMs on Balancer v3"></a> |
-| :---: | :---: | :---: |
-| [Intro to Scaffold Balancer](https://www.youtube.com/watch?v=m6q5M34ZdXw&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) | [Create a Hook](https://www.youtube.com/watch?v=kaz6duliRPA&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) | [Create Custom AMMs](https://www.youtube.com/watch?v=oJAXQCMVdfA&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) |
+- [Intro to Scaffold Balancer](https://www.youtube.com/watch?v=m6q5M34ZdXw&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) – Tour of the starter kit: deploy scripts, local fork, and pool operations playground
+- [Create a Hook](https://www.youtube.com/watch?v=kaz6duliRPA&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) – Line by line walkthrough of writing and testing a swap fee discount hook
+- [Create Custom AMMs](https://www.youtube.com/watch?v=oJAXQCMVdfA&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) – Building a custom pool: inheritance, swap logic, invariants, and balance computation
+- [Create a Router](https://www.youtube.com/watch?v=pO1ChmSFTaY&list=PLFKRKS7Isj-LPvafy-qMuRSlnIFYxHNJw) – Walkthrough of a custom router that manages liquidity positions with hooks and NFTs
 
 ### 🏆 Hackathons
 
