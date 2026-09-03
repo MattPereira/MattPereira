@@ -1,9 +1,3 @@
-### 🧑‍💻 About
-
-- Full stack web3 developer specializing in defi integrations, developer tooling, and user interfaces
-- Passionate about open source software, artificial intelligence, and Ethereum
-- Learning to build AI powered apps, agents, and MCP servers
-
 ### 🏗️ Projects
 
 - [Open Caddie](https://github.com/MattPereira/open-caddie) – A modern golf score keeper for match play and tournament coordination
