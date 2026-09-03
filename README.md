@@ -19,5 +19,5 @@
 
 ### 🏆 Hackathons
 
-- ETH Denver Bounty Winner | [Github](https://github.com/MattPereira/FundGuys) | [NFT](https://opensea.io/item/arbitrum/0x93fd88df3e2a377c0f23bf22c1cfd87047818d20/126) | [Devfolio](https://devfolio.co/projects/fundguys-9ed9) | Feb 2024
-- Lukso Hackathon Bounty Winner | [Github](https://github.com/bshevchenko/updev) | [Website](https://updev.vercel.app/) | [Medium](https://medium.com/lukso/buildup-2-hackathon-winners-0f784793bc43) | Dec 2023
+- ETH Denver Bounty | [Github](https://github.com/MattPereira/FundGuys) | [NFT](https://opensea.io/item/arbitrum/0x93fd88df3e2a377c0f23bf22c1cfd87047818d20/126) | [Devfolio](https://devfolio.co/projects/fundguys-9ed9) | Feb 2024
+- Lukso Hackathon Bounty | [Github](https://github.com/bshevchenko/updev) | [Website](https://updev.vercel.app/) | [Medium](https://medium.com/lukso/buildup-2-hackathon-winners-0f784793bc43) | Dec 2023
